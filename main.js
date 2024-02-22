@@ -12,3 +12,7 @@ navLinks.on("click", () => {
     // Close the mobile menu
     navMenu.css("right", "-100%");
 });
+
+
+//more personal stuff pop up wishlist part
+
