@@ -14,5 +14,8 @@ navLinks.on("click", () => {
 });
 
 
-//more personal stuff pop up wishlist part
+//form button clear form
+function clearForm() {
+    document.getElementById('contact-form').reset(); // Resets the form user inputs
+}
 
